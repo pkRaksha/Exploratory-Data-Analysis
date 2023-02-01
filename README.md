@@ -3,8 +3,6 @@ Hotel Booking analysis- EDA
 
 Link to Dataset:https://drive.google.com/file/d/1C9AxF9fcVzMw0Bgs0NaRrNML2WwX1Ehm/view
 
-Video Link :
-
 Collab Link :https://colab.research.google.com/drive/1yVmb1C3GT012ukZTNYd_ZxpSHN5nix8f#scrollTo=Fjb1IsQkh3yE
 
 Project Summary:
