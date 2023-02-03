@@ -17,11 +17,11 @@ The distribution channels used by the hotel to attract customers also add up to 
 
 This project is completely focused on building our analysis to help a business grow by doing the below major types of analysis:
 
-Number of Cancelations and the factors which lead to the increase thus impacting the business negatively
-The average length of stay of a customer is an important KPI to determine the average daily rates for the rooms occupied
-The total number of bookings made over a period of time when there is a sudden surge/drop in the number of bookings caused to various factors helps us get a picture of the timeline when the hotel has booming guests and the reason for the drop
-The preferred room types help us to increase the ADR by making those rooms more available.
-The meal type is also vital for the business to attract customers by giving complementary or discounted prices on the most preferred meal.
+- Number of Cancelations and the factors which lead to the increase thus impacting the business negatively
+- The average length of stay of a customer is an important KPI to determine the average daily rates for the rooms occupied
+- The total number of bookings made over a period of time when there is a sudden surge/drop in the number of bookings caused to various factors helps us get a picture of the timeline when the hotel has booming guests and the reason for the drop
+- The preferred room types help us to increase the ADR by making those rooms more available.
+- The meal type is also vital for the business to attract customers by giving complementary or discounted prices on the most preferred meal.
 ### Dataset:
 **hotel** :Name of hotel (City or Resort Hotel)
 
